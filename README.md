@@ -187,3 +187,7 @@ Streamlit Dashboard
 
 ## STAR Answer Generator
 ![STAR Answer](images/star_answer.png)
+
+## 🌐 Live Demo
+
+🔗 https://ai-powered-interview-assistant-djdvuu2fsrgwtslrbjt8qh.streamlit.app/
