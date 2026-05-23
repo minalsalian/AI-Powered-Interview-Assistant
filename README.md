@@ -1,4 +1,4 @@
-# 🤖 AI-Powered Interview & Resume Assistant
+<img width="1024" height="666" alt="image" src="https://github.com/user-attachments/assets/6617e385-7853-47e6-9c63-66c07bc55fbb" /># 🤖 AI-Powered Interview & Resume Assistant
 
 An AI-powered career intelligence platform built using Streamlit, Groq LLM API, and Python.
 
@@ -191,3 +191,7 @@ Streamlit Dashboard
 ## 🌐 Live Demo
 
 🔗 https://ai-powered-interview-assistant-djdvuu2fsrgwtslrbjt8qh.streamlit.app/
+
+## 🎥 Demo Video
+
+🔗  https://drive.google.com/file/d/15a71S5aXUho1srz6ylAxVY_BFmjO3KUb/view?usp=sharing
