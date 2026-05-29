@@ -1,4 +1,4 @@
-<img width="1024" height="666" alt="image" src="https://github.com/user-attachments/assets/6617e385-7853-47e6-9c63-66c07bc55fbb" /># 🤖 AI-Powered Interview & Resume Assistant
+# 🤖 AI-Powered Interview & Resume Assistant
 
 An AI-powered career intelligence platform built using Streamlit, Groq LLM API, and Python.
 
